@@ -57,7 +57,7 @@
                                             <br>Término: 01/01/2019
                                         </div>
                                         <div class="col-md-2">
-                                            <button type="submit" class="btn btn-success" style="margin-top: 5px;">Devolver</button>
+                                            <button type="submit" class="btn" style="margin-top: 5px;background-color:  #295;color:white;">Devolver</button>
                                             <p style="color:red;font-size: 14px;">R$ 5,00</p>
                                         </div>
                                     </div>
@@ -68,7 +68,6 @@
                 </div>
             </div>
         </div>
-    </div>
 
 
 

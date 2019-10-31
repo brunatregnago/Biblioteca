@@ -17,7 +17,7 @@ class Acervo extends CI_Controller {
 
     public function lista() {
         $this->load->view('menu');
-        $this->load->view('acervo');
+        $this->load->view('devolucao');
         //$this->load->view('footer');
     }
     
